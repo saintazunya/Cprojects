@@ -1,0 +1,10 @@
+4
+4
+PPPP
+PPPP
+PFPP
+PPPP
+path_finder east 1 0
+hop east 1 1
+
+
